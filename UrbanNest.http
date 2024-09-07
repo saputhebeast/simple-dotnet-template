@@ -1,0 +1,6 @@
+@UrbanNest_HostAddress = http://localhost:5038
+
+GET {{UrbanNest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
